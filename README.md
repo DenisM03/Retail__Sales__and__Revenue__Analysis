@@ -87,6 +87,7 @@ Excel
 
 
 # Dashboard
+![Screenshot 2025-02-17 183841](https://github.com/user-attachments/assets/c29a117e-4c4e-4003-945f-343809eef890)
 
 
 
